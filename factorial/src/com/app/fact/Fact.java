@@ -7,6 +7,7 @@ public class Fact {
 	 for(int i=s2.length-1;i>=0;i--){
     	 
 		    System.out.println("9999999999999999999999999");
+		    System.out.println("8989989898");
 		    System.out.println("ppppppppppppppppppppppppppp");
 	  System.out.println(s2[i]+" ");
 	}
