@@ -6,7 +6,7 @@ public class Fact {
 	 String s2[]=s.split(" ");
 	 for(int i=s2.length-1;i>=0;i--){
     	 
-		    System.out.println("ooooooooooooooooooooo9999999999999999999999999");
+		    System.out.println("9999999999999999999999999");
 		    System.out.println("ppppppppppppppppppppppppppp");
 	  System.out.println(s2[i]+" ");
 	}
